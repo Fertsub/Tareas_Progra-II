@@ -33,5 +33,6 @@ public class Ejercicio_4_24{
 
         if (aprobados > 8)
             System.out.println("Bono para el instructor!");
+         entrada.close();
     }
 }

@@ -24,5 +24,6 @@ public class Ejercicio_4_21 {
         }
 
         System.out.println("El número más grande es: " + mayor);
+        scanner.close();
     }
 }
